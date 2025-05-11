@@ -1,6 +1,6 @@
 # Big Data Log Analysis Using Apache Spark
 
-This project demonstrates unstructured web server log data processing using Apache Spark's DataFrame and RDD APIs. It was developed as part of the CN7031 Big Data Analytics coursework.
+This project demonstrates unstructured web server log data processing using Apache Spark's DataFrame and RDD APIs. It was developed as part of the Big Data Analytics coursework.
 
 ## 📌 Project Overview
 
@@ -13,15 +13,6 @@ The notebook performs end-to-end analysis on raw server logs, extracting key fie
 - Python (pandas, matplotlib)
 - Jupyter Notebook
 
-## 📂 Folder Structure
-
-```
-big-data-log-analysis-spark/
-│
-├── data/                      # Unstructured log data (not included)
-├── 76_CN7031.ipynb            # Main Jupyter notebook
-└── README.md                  # Project documentation
-```
 
 ## 🚀 How to Run
 
@@ -57,7 +48,7 @@ big-data-log-analysis-spark/
 ## 📘 Author
 
 **Pandari Naga Veera Sainath Chundru**  
-University of Hertfordshire – CN7031 Big Data Analytics
+
 
 ## 📜 License
 
